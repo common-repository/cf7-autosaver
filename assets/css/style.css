@@ -1,0 +1,19 @@
+/**
+ * cf7as Styles file
+ *
+ * bishoy.me
+ */
+
+.cf7as-fill-with-fb a {
+    color: #49659F;
+    border-bottom: 1px dashed;
+    font-size: 12px;
+}
+
+.cf7as-fill-with-fb a:hover {
+    opacity: 0.6;
+}
+
+.cf7as-fill-with-fb.cf7as-link-top {
+	margin: 10px 0px;
+}
